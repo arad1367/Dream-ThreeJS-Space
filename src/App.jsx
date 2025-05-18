@@ -10,6 +10,12 @@ function App() {
       >
         <DreamWorld />
       </Canvas>
+      <footer className="dreamy-footer">
+        ©2025 Pejman Ebrahimi — All rights reserved.
+        <span className="footer-message">
+          | Crafted for dreamers. Experience the impossible.
+        </span>
+      </footer>
     </div>
   );
 }

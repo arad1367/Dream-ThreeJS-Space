@@ -16,3 +16,28 @@ body {
   height: 100vh;
   background: #000;
 }
+
+.dreamy-footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100vw;
+  padding: 18px 0 12px 0;
+  background: linear-gradient(90deg, #1a0033 0%, #3a1c71 100%);
+  color: #fff;
+  font-family: "Segoe UI", "Arial", sans-serif;
+  font-size: 1.1rem;
+  letter-spacing: 0.04em;
+  text-align: center;
+  z-index: 10;
+  box-shadow: 0 -2px 24px 0 #a4508b44;
+  opacity: 0.95;
+  backdrop-filter: blur(4px);
+}
+
+.footer-message {
+  color: #e0c3fc;
+  margin-left: 8px;
+  font-style: italic;
+  font-size: 1rem;
+}

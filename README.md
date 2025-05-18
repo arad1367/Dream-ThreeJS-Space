@@ -45,25 +45,6 @@ This project creates a dreamy, interactive 3D environment with floating objects,
 
 4. Open your browser and navigate to `http://localhost:3000`
 
-## Project Structure
-
-dreamy-threejs/
-├── public/
-│ └── assets/
-│ └── music/
-│ └── ambient.mp3
-├── src/
-│ ├── components/
-│ │ ├── DreamWorld.jsx
-│ │ ├── FloatingObjects.jsx
-│ │ └── ParticleSystem.jsx
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── style.css
-├── index.html
-├── package.json
-└── vite.config.js
-
 ## Usage
 
 - Click anywhere on the screen to start the ambient music
